@@ -1,9 +1,13 @@
+.container{
+	margin-top: 100px;
+}
 button {
 	border: none;
 	width: 50px;
 	height: 30px;
 	margin: .8em;
 	border-radius: 3px;
+	background-color: rgb(182, 181, 181);
 }
 button:active {
   position: relative;
